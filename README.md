@@ -1,1 +1,2 @@
 1. [AMD Ryzen AI Max+ 395: GTT Memory Step‐by‐Step Instructions (Ubuntu 24.04)](https://github.com/technigmaai/technigmaai-wiki/wiki/AMD-Ryzen-AI-Max--395:-GTT--Memory-Step%E2%80%90by%E2%80%90Step-Instructions-(Ubuntu-24.04))
+2. [Llama CPP and GGUF Models](https://github.com/technigmaai/technigmaai-wiki/wiki/Llama-CPP-and-GGUF-Models)
